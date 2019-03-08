@@ -1,0 +1,9 @@
+---
+name: Registros, instrucciones y ensamblado
+locale: es
+type: learning
+beta: false
+language: qsim
+id_format: "%05d"
+order: []
+private: false
