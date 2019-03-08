@@ -1,0 +1,1 @@
+Recordá la lección anterior: un byte equivale a ocho bits. :satisfied:

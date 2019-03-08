@@ -1,0 +1,4 @@
+- name: La cantidad de bytes es correcta
+  keys:
+    bytes:
+      equals: 2
