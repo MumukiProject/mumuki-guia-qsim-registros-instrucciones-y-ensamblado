@@ -1,0 +1,3 @@
+¡Muy bien! :fire:
+
+Pero no sólo de operar registros vive el procesador. Veamos cómo escribir algo más...
