@@ -1,0 +1,22 @@
+---
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`MUL R3, R2` guarda la multiplicación de ambos registros en R3."
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: El operando destino en `DIV R5, R7` es R5.
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: El operando origen en `ADD R4, R6` es R6.
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`SUB R0, R1` realiza la operación R0 - R1 y guarda el resultado en R0."
+  checked: true
+name: Instrucciones básicas
