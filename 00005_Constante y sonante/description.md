@@ -2,7 +2,7 @@ Todo viene bien con sumar, restar, multiplicar y dividir registros, pero ¿qué 
 
 En QSim podemos trabajar con valores **constantes** - constante significa que, a diferencia de un registro, no puede variar: es un número que siempre vale lo mismo, como 5, 7 ó 19.
 
-¿Dónde está la trampa? ¡El procesador no entiende de números decimales! :scream: Pero sí entiende de números en el **sistema hexadecimal**, como estuvimos aprendiendo. Por eso, cuando querramos hacer referencia a un número constante, hay que anteponer el prefijo `0x`, y luego escribir el número hexadecimal en cuatro dígitos.
+¿Dónde está la dificultad? ¡El procesador no entiende de números decimales! :scream: Pero sí entiende de números en el **sistema hexadecimal**, como estuvimos aprendiendo. Por eso, cuando querramos hacer referencia a un número constante, hay que anteponer el prefijo `0x`, y luego escribir el número hexadecimal en cuatro dígitos.
 
 Para transformar los números a hexadecimal, recordá que podíamos asistirnos con otro lenguaje. [link] **¡Tené ese ejercicio a mano!** Convertir los números en esa consola te va a resultar útil para el resto de la lección. :grin:
 
