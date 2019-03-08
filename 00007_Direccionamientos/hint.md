@@ -1,0 +1,1 @@
+Prestá atención cuando te preguntamos si una instrucción es válida. ¿Tiene sentido querer copiar un valor a una constante? :thought_balloon:

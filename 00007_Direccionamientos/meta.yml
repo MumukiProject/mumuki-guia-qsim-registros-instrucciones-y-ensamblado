@@ -1,0 +1,28 @@
+---
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: MOV R3, R5 utiliza únicamente direccionamiento de registros
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: MOV R6, 0xFFFF utiliza únicamente direccionamiento de registros
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: MOV 0x1003, R1 es una instrucción válida
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: MOV R1, 0x1003 es una instrucción válida
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: MOV 0x1003, 0x1C04 es una instrucción válida
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: MOV R0, 0x03FD utiliza direccionamiento de registros y direccionamiento inmediato
+  checked: true
+name: Direccionamientos
