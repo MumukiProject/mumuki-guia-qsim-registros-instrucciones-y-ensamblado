@@ -1,0 +1,10 @@
+examples:
+- name: 'Se guarda en R7 el resultado de la suma entre R5 y R7'
+  preconditions:
+    records:
+      R5: '0023'
+      R7: '0022'
+  postconditions:
+    equal:
+      R5: '0023'
+      R7: '0069'
