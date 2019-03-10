@@ -6,4 +6,4 @@ Por ejemplo, para sumarle 15 a un registro, podemos hacer:
 
 Recordá que 0x000F es la representación hexadecimal del número 15. :wink:
 
-> ¡Tu turno! Escribí una instrucción que duplique el valor del registro R7,
+> ¡Tu turno! Escribí una instrucción que duplique el valor del registro R7.
