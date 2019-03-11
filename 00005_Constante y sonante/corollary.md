@@ -1,1 +1,1 @@
-:tada: Ahora que ya la tenés clara con las constantes hexadecimales, toca aprender una nueva instrucción. :relaxed:
+¡Bien! :tada: Ahora que ya la tenés clara con las constantes hexadecimales, toca aprender una nueva instrucción. :relaxed:

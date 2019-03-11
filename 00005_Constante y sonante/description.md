@@ -6,4 +6,4 @@ En QSim podemos trabajar con valores **constantes** - constante significa que, a
 
 Para transformar los números a hexadecimal, recordá que podíamos asistirnos con otro lenguaje. [link] **¡Tené ese ejercicio a mano!** Convertir los números en esa consola te va a resultar útil para el resto de la lección. :grin:
 
-> Probemos algo simple: escribí en la consola el número constante 505, convertido a hexadecimal y con el prefijo correspondiente.
+> Probemos algo simple: escribí en el editor el número constante 505, convertido a hexadecimal y con el prefijo correspondiente, y envialo.
