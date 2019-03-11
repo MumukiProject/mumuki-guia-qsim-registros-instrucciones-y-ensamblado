@@ -2,7 +2,6 @@ examples:
 - name: 'Se copia el valor del registro R4 a R3'
   preconditions:
     records:
-      R2: '0000'
       R3: '94BB'
       R4: '8086'
   postconditions:
@@ -16,3 +15,10 @@ examples:
   postconditions:
     equal:
       R2: '03A1'
+- name: 'Se copia la constante 0x03A1 a R2'
+  preconditions:
+    records:
+      R7: '0300'
+  postconditions:
+    equal:
+      R2: '04A1'
