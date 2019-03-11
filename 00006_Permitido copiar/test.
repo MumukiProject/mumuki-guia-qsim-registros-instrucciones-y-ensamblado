@@ -15,10 +15,3 @@ examples:
   postconditions:
     equal:
       R2: '03A1'
-- name: 'Se copia la constante 0x03A1 a R2'
-  preconditions:
-    records:
-      R7: '0300'
-  postconditions:
-    equal:
-      R2: '04A1'
