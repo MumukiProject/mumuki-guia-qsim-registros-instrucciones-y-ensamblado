@@ -11,6 +11,6 @@ Las instrucciones son las siguientes:
 
 Como ves, las cuatro instrucciones tienen dos operandos. El resultado de la operación se almacena en el primero de ellos, denominado **operando destino**, mientras que el segundo se denomina **operando origen**.
 
-Por ejemplo, `ADD R0, R4` suma R0 y R4 y guarda el resultado de la suma en R0. :satisfied:
+Por ejemplo, `ADD R0, R4` suma los valores que estén guardados en los registros R0 y R4, y luego guarda el resultado de la suma en R0. Los registros actúan como **variables**: los valores guardados en ellos pueden cambiar en cualquier momento. :satisfied:
 
 > Marcá las opciones correctas.
