@@ -1,6 +1,6 @@
 Todas las instrucciones que aprendimos hasta ahora son **código fuente**: los seres humanos las podemos leer, escribir e interpretar, como vos durante esta lección :grin:. Pero una computadora no sabe interpretar palabras como MOV o SUB, y tampoco sabe leer números en hexadecimal. :confused:
 
-Por esa razón se requiere de un proceso que _traduzca_ el código fuente en **código máquina**, compuesto por unos y ceros, que la CPU sí comprende. Este proceso se llama **ensamblado** y sigue ciertas reglas que dependen de cada arquitectura de computadora.
+Por esa razón se requiere de un proceso que _traduzca_ el código fuente en **código máquina** :computer:, compuesto por unos y ceros, que la CPU sí comprende. Este proceso se llama **ensamblado** y sigue ciertas reglas que dependen de la arquitectura de cada procesador.
 
 En nuestra arquitectura Q, por ejemplo, la instrucción `DIV R1, R2` se ensambla al código máquina `0111100001100010`. La lógica del ensamblado es la siguiente:
 
