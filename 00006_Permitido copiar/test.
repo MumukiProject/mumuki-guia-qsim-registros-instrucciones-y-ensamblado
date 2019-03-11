@@ -12,6 +12,8 @@ examples:
   preconditions:
     records:
       R2: '0000'
+      R3: '94BB'
+      R4: '8086'
   postconditions:
     equal:
       R2: '03A1'
