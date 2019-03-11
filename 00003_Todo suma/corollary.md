@@ -1,3 +1,3 @@
 ¡Bien ahí! Ya estás escribiendo tus primeras instrucciones en **lenguaje ensamblador**. ¿Por qué se le llama así? Ese es un misterio que resolveremos más adelante... :flushed:
 
-Al enviar la solución habrás visto una pequeña tabla abajo que indica el valor, en hexadecimal, que está almacenado en cada registro. Para saber si la solución que hiciste era correcta, cargamos algunos valores de prueba en los registros R5 y R7. El valor de R5, `0105`, es el resultado de la instrucción de suma que escribiste. :clap:
+Al enviar la solución habrás visto una pequeña tabla abajo que indica el valor, en hexadecimal, que está almacenado en cada registro. Para saber si la solución que hiciste era correcta, cargamos algunos valores de prueba en los registros R5 y R7. El valor de R7, `00ED`, es el resultado de la instrucción de suma que escribiste. :clap:
