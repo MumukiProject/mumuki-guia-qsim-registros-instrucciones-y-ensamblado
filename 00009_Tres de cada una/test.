@@ -11,4 +11,4 @@ examples:
       R7: '0007'
   postconditions:
     equal:
-      R4: '0063'
+      R4: '005B'
