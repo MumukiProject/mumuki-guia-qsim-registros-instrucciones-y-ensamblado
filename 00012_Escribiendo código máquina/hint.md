@@ -1,0 +1,1 @@
+Recordá que en el ensamblado se destinan 4 bits para el código de operación, luego 6 bits para el modo de direccionamiento del operando destino, y otros 6 bits para el modo de direccionamiento del operando origen. En el ejercicio anterior está explicado cómo escribir esos pares de 6 bits.
