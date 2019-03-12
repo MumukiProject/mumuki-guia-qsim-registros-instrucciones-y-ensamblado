@@ -2,7 +2,7 @@ Todas las instrucciones que aprendimos hasta ahora son **código fuente**: los s
 
 Por esa razón se requiere de un proceso que _traduzca_ el código fuente en **código máquina** :computer:, compuesto por unos y ceros, que la CPU sí comprende. Este proceso se llama **ensamblado** y sigue ciertas reglas que dependen de la arquitectura de cada procesador.
 
-En nuestra arquitectura Q, por ejemplo, la instrucción `DIV R1, R2` se ensambla al código máquina `0111100001100010`. La lógica del ensamblado es la siguiente:
+En la arquitectura Q, por ejemplo, la instrucción `DIV R1, R2` se ensambla al código máquina `0111100001100010`. La lógica del ensamblado es la siguiente:
 
 * Los primeros **4 bits**, `0111`, corresponden a la instrucción, en nuestro caso DIV. Por ejemplo, ADD es 0010 y DIV es 0111.
 * Los siguientes **6 bits**, `100001` corresponden al modo de direccionamiento del operando destino. Por ser direccionamiento de registro empieza con `100`, y `001` es el número 1 (¡del registro R1!) en binario.
