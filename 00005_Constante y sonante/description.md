@@ -4,6 +4,6 @@ En QSim podemos trabajar con valores **constantes** - constante significa que, a
 
 ¿Dónde está la dificultad? ¡El procesador no entiende de números decimales! :scream: Pero sí entiende de números en el **sistema hexadecimal**, como estuvimos aprendiendo. Por eso, cuando querramos hacer referencia a un número constante, hay que anteponer el prefijo `0x`, y luego escribir el número hexadecimal en cuatro dígitos.
 
-Para transformar los números a hexadecimal, recordá que podíamos asistirnos con otro lenguaje. [link] **¡Tené ese ejercicio a mano!** Convertir los números en esa consola te va a resultar útil para el resto de la lección. :grin:
+Para transformar los números a hexadecimal, recordá que podíamos asistirnos con otro lenguaje, como *en el último ejercicio de la lección anterior*. **¡Tené ese ejercicio a mano!** Convertir los números en esa consola te va a resultar útil para el resto de la lección. :grin:
 
 > Probemos algo simple: escribí en el editor el número constante 505, convertido a hexadecimal y con el prefijo correspondiente, y envialo.
