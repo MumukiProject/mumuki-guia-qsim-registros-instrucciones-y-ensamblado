@@ -10,8 +10,8 @@ Según los operandos de la instrucción se estará utilizando un **modo de direc
 
 En cambio, `MOV R3, 0x0134` utiliza dos tipos de direccionamiento distintos:
 
-* direccionamiento de registro para el operando destino, R3, porque es un registro;
-* y **direccionamiento inmediato** para el operando origen, porque el valor que requiere (0x0134) ya aparece directamente en la instrucción.
+* direccionamiento de registro para el operando destino, `R3`, porque es un registro;
+* y **direccionamiento inmediato** para el operando origen, porque el valor que requiere (`0x0134`) ya aparece directamente en la instrucción.
 
 ¡No son los únicos dos tipos de direccionamiento, pero sí los dos más simples! :blush:
 
