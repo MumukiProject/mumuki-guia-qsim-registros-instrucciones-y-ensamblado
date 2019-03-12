@@ -1,8 +1,8 @@
 examples:
-- name: 'Se duplica el valor del registro R7'
+- name: 'Se duplica el valor del registro R4'
   preconditions: 
     records:
-      R7  : '5CD5'
+      R4: '5CD5'
   postconditions:
     equal:
-      R7: 'B9AA'
+      R4: 'B9AA'
