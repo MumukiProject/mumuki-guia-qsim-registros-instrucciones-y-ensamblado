@@ -3,6 +3,8 @@ examples:
   preconditions:
     records:
       R0: '0000'
+      R2: '000A'
+      R3: '0006'
   postconditions:
     equal:
       R0: '0008'
