@@ -2,8 +2,8 @@ Cuando un operando tiene direccionamiento inmediato, los 6 bits se ensamblan com
 
 Por ejemplo, el código máquina de la instrucción `SUB R5, 0xD13B` es...
 
-* `0011`, 4 bits, que es el código de la instrucción SUB;
-* `100101`, 6 bits; `100` por ser direccionamiento de registro y `101` que es 5 en binario (por ser el registro R5);
+* `0011`, 4 bits, que es el código de la instrucción `SUB`;
+* `100101`, 6 bits; `100` por ser direccionamiento de registro y `101` que es 5 en binario (por ser el registro `R5`);
 * `000000`, 6 bits, porque el direccionamiento del operando origen es inmediato;
 * Y 16 bits distribuidos en cuatro partes:
   * `1101`, 4 bits, que es `D` hexadecimal en binario;
