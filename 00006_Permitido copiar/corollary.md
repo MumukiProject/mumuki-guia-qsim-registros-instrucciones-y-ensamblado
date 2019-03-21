@@ -1,1 +1,1 @@
-¡Genial! :tada: MOV toma su nombre por la palabra _mover_, pero el registro original no se ve modificado: por eso es más preciso decir _copiar_.
+¡Genial! :tada: `MOV` toma su nombre por la palabra _mover_, pero el registro original no se ve modificado: por eso es más preciso decir _copiar_.
