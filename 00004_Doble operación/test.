@@ -1,10 +1,9 @@
 examples:
 - name: 'Se guarda en R6 el resultado de la multiplicación entre R4 y la resta de R6 y R1'
   preconditions:
-    records:
-      R1: '000A'
-      R4: '0002'
-      R6: '000C'
+    R1: '000A'
+    R4: '0002'
+    R6: '000C'
   postconditions:
     equal:
       R1: '000A'
