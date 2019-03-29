@@ -1,14 +1,13 @@
 examples:
 - name: 'Se le asigna el número 100 a R4; se suman R1, R2 y R3 y se restan R5, R6 y R7'
   preconditions:
-    records:
-      R1: '0002'
-      R2: '0003'
-      R3: '0004'
-      R4: '0000'
-      R5: '0005'
-      R6: '0006'
-      R7: '0007'
+    R1: '0002'
+    R2: '0003'
+    R3: '0004'
+    R4: '0000'
+    R5: '0005'
+    R6: '0006'
+    R7: '0007'
   postconditions:
     equal:
       R4: '005B'
