@@ -1,18 +1,16 @@
 examples:
 - name: 'R0 guarda el promedio de los valores de los registros R2 y R3'
   preconditions:
-    records:
-      R0: '0000'
-      R2: '000A'
-      R3: '0006'
+    R0: '0000'
+    R2: '000A'
+    R3: '0006'
   postconditions:
     equal:
       R0: '0008'
 - name: 'No se modifican los registros R2 y R3'
   preconditions:
-    records:
-      R2: '000A'
-      R3: '0006'
+    R2: '000A'
+    R3: '0006'
   postconditions:
     equal:
       R2: '000A'
